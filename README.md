@@ -58,6 +58,9 @@ Most of the Bookings are coming from other channels followed by Makeyourtrip, lo
 Also Most of the Bookings occurred for the Elite room class(49K), followed by the standard room class (38K).
 
 # Skills learnt from project
+• Power Bi
+• Dax
+
 Key metrics:
 
 RevPAR- Revenue per available room,
