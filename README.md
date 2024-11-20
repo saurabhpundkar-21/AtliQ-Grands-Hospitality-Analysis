@@ -3,7 +3,7 @@
 # Project Goal
 This project aims to boost Atliq Grands' market share and revenue within the luxury business hotel sector. The company aims to surpass competitors and enhance management decision-making by applying data-driven strategies and business intelligence.
 
-### Here is my report link - https://app.powerbi.com/view?r=eyJrIjoiZGU0NjIyMTItNTA5Zi00OWRiLWE3MmUtMDZhZDU1NjViYmFmIiwidCI6ImJjM2UxOWM5LTU1MDMtNDlmYi1iZjAwLWI2YzU5MTE1OWE3NSJ9
+### Here is my report link - ### https://app.powerbi.com/view?r=eyJrIjoiZGU0NjIyMTItNTA5Zi00OWRiLWE3MmUtMDZhZDU1NjViYmFmIiwidCI6ImJjM2UxOWM5LTU1MDMtNDlmYi1iZjAwLWI2YzU5MTE1OWE3NSJ9
 
 # Data Structure and Data Modelling
 I gathered the dataset used from Code Basics’ website.
