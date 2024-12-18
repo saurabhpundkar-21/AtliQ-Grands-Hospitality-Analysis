@@ -70,9 +70,11 @@ Key metrics:
 * DURN- Daily Utilized Room,
 * Realisation %,
 * occupancy and cancellation %
+
 Power BI fundamentals:
 
 * Data cleaning and Star schema modeling
 * Learned about page navigation, tooltip, and conditional formatting.
+
 Soft skills:
 * Domain knowledge in hospitality
